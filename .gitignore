@@ -1,0 +1,4 @@
+/bin/
+/node_modules/
+/app/build/
+/app/streamlit_app.egg-info/
